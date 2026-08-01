@@ -1,11 +1,41 @@
 PromptID,Category,TargetLanguage,Prompt
-TR001,Translation,Italian,"Translate the following museum information leaflet into natural Italian while preserving its formal tone."
-TR002,Translation,Spanish,"Translate the following hotel confirmation email into natural European Spanish."
-TR003,Translation,Brazilian Portuguese,"Translate the following product description into natural Brazilian Portuguese."
-TR004,Translation,English,"Translate the following Italian news article into fluent English."
-TR005,Translation,Italian,"Translate the following customer support email into professional Italian."
-TR006,Translation,Spanish,"Translate the following website homepage into neutral Spanish."
-TR007,Translation,Brazilian Portuguese,"Translate the following restaurant menu into Brazilian Portuguese."
-TR008,Translation,English,"Translate the following Spanish government announcement into clear English."
-TR009,Translation,Italian,"Translate the following legal notice into plain Italian."
-TR010,Translation,Spanish,"Translate the following tourism brochure into engaging Spanish."
+PromptID,Category,Difficulty,TargetLanguage,Domain,Prompt
+TR001,Translation,Easy,Italian,Tourism,"Translate the following museum information leaflet into natural Italian while preserving its formal tone:
+
+Welcome to the National Museum of Archaeology. Photography without flash is permitted. Please keep a safe distance from all exhibits and follow staff instructions during your visit."
+
+TR002,Translation,Easy,Spanish,Hospitality,"Translate the following hotel confirmation email into natural European Spanish:
+
+Dear Guest, thank you for choosing our hotel. Check-in begins at 3:00 p.m. Breakfast is served between 7:00 and 10:00 a.m."
+
+TR003,Translation,Medium,Brazilian Portuguese,E-commerce,"Translate the following product description into natural Brazilian Portuguese:
+
+This reusable stainless-steel water bottle keeps drinks cold for up to 24 hours and hot for up to 12 hours."
+
+TR004,Translation,Medium,English,News,"Translate the following Italian news excerpt into fluent English:
+
+Il consiglio comunale ha approvato il nuovo piano di mobilità urbana dopo una lunga discussione."
+
+TR005,Translation,Hard,Italian,Customer Support,"Translate the following customer support email into professional Italian:
+
+We apologise for the inconvenience. Your refund has been processed and should appear in your account within five business days."
+
+TR006,Translation,Medium,Spanish,Technology,"Translate the following website homepage into neutral Spanish:
+
+Discover powerful productivity tools designed to help your team collaborate from anywhere."
+
+TR007,Translation,Easy,Brazilian Portuguese,Food,"Translate the following restaurant menu into Brazilian Portuguese:
+
+Grilled salmon served with roasted vegetables and lemon butter sauce."
+
+TR008,Translation,Hard,English,Government,"Translate the following Spanish government announcement into clear English:
+
+El Ministerio de Salud recomienda completar el calendario oficial de vacunación."
+
+TR009,Translation,Hard,Italian,Legal,"Translate the following legal notice into plain Italian:
+
+Failure to comply with these conditions may result in termination of the agreement without prior notice."
+
+TR010,Translation,Medium,Spanish,Tourism,"Translate the following tourism brochure into engaging Spanish:
+
+Explore breathtaking coastal landscapes, historic villages and authentic local cuisine during your stay."
