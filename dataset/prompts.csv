@@ -1,1 +1,11 @@
 PromptID,Category,TargetLanguage,Prompt
+TR001,Translation,Italian,"Translate the following museum information leaflet into natural Italian while preserving its formal tone."
+TR002,Translation,Spanish,"Translate the following hotel confirmation email into natural European Spanish."
+TR003,Translation,Brazilian Portuguese,"Translate the following product description into natural Brazilian Portuguese."
+TR004,Translation,English,"Translate the following Italian news article into fluent English."
+TR005,Translation,Italian,"Translate the following customer support email into professional Italian."
+TR006,Translation,Spanish,"Translate the following website homepage into neutral Spanish."
+TR007,Translation,Brazilian Portuguese,"Translate the following restaurant menu into Brazilian Portuguese."
+TR008,Translation,English,"Translate the following Spanish government announcement into clear English."
+TR009,Translation,Italian,"Translate the following legal notice into plain Italian."
+TR010,Translation,Spanish,"Translate the following tourism brochure into engaging Spanish."
